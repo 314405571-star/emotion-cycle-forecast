@@ -1,0 +1,5 @@
+# The core and the tests use the standard library only.
+# Optional, for the demo figures:
+matplotlib>=3.7
+# Optional, inside JoinQuant only:
+# jqdata
